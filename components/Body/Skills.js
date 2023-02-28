@@ -121,7 +121,7 @@ const Skills = () => {
               <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
               <div className="grid grid-cols-2 gap-4 justify-center items-center">
                 <div className="m-auto">
-                  <Image
+                  <img
                     src="./skills/mui.png"
                     width="64px"
                     height="64px"
@@ -139,7 +139,7 @@ const Skills = () => {
             <div className="p-6 shadow-xl rounded-xl hover:scale-105 ease-in duration-300">
               <div className="grid grid-cols-2 gap-4 justify-center items-center">
                 <div className="m-auto">
-                  <Image
+                  <img
                     src="./skills/figma.png"
                     width="64px"
                     height="64px"
