@@ -122,7 +122,7 @@ const Skills = () => {
               <div className="grid grid-cols-2 gap-4 justify-center items-center">
                 <div className="m-auto">
                   <Image
-                    src="/../public/skills/mui.png"
+                    src="./skills/mui.png"
                     width="64px"
                     height="64px"
                     alt="/"
@@ -140,7 +140,7 @@ const Skills = () => {
               <div className="grid grid-cols-2 gap-4 justify-center items-center">
                 <div className="m-auto">
                   <Image
-                    src="/../public/skills/figma.png"
+                    src="./skills/figma.png"
                     width="64px"
                     height="64px"
                     alt="/"
