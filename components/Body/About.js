@@ -8,22 +8,16 @@ const About = () => {
           <p className="uppercase text-xl tracking-widest text-[#5651e5]">About</p>
           <h2 className="py-4">Who I am</h2>
           <p className="py-2 text-gray-600">
-            I am a graduating student taking the Bachelor Science of Information
-            Technology and currently training as a Front-End Web Developer on
-            Nexplay E-Sports. I also do digital art commissions and Virtual
-            Streaming. Ever since I was young I am Intrigued to code and became
-            fascinated up until now.
+            I am a Front-End Developer and also a graphic designer. I am doing some digital arts for hobby and Virtual
+            Streaming. Ever since I was young I am Intrigued to design using code and learn.
           </p>
           <p className="py-2 text-gray-600">
             I started to learn HTML, CSS, and Javascript. Javascript is
-            difficult but fun to learn. I am currently learning as a front-end
-            developer using React, Next-Js, and and UI/UX designer. Since my
-            goal is to become a full-stack Web Developer, I am now spending my
-            time studying to make responsive websites and soon enough to
-            discover more on server side and back-end Technology.
+            difficult but fun to learn. I am still learning as a front-end
+            developer using React, Next-Js, and UI/UX designer. My goal is
+            to provide a wonderful experience for the end-users and to
+            learn more about designing and User-Experience development.
           </p>
-
-          <p className="py-2 text-gray-600 underline cursor-pointer">Check out some of my Latest Projects</p>
         </div>
         <div className="w-full h-auto flex items-center justify-center p-4 hover:scale-105 ease-in duration-300">
         <img
